@@ -8,10 +8,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmerichGuilherme&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmerichGuilherme&repo=clone_disneyplus.github.io=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Linguagens utilizadas
 
